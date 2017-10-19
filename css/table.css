@@ -1,0 +1,22 @@
+table
+{
+	border-collapse: collapse;
+	width:50%;
+	align: center;
+	background-color: #009999;
+	cellpadding: 0;
+	cellspacing: 20;
+}
+
+td
+{
+	text-align: left;
+	padding: 8px;
+	color: #000000;
+	font-weight: bold;
+}
+
+input
+{
+	width:300px;
+}
